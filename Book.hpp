@@ -1,3 +1,5 @@
+//Author: Camilla Calle 
+//Date: March 19, 2023
 //Book.hpp
 
 #ifndef BOOK_HPP_
