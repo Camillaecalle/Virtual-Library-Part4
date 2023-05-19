@@ -1,5 +1,3 @@
-//Author:Camilla Calle
-//March 19, 2023
 //Book.hpp
 //Here I made display() and displayFilter() pure virtual functions, see at the bottom. 
 #ifndef BOOK_HPP_
