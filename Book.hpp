@@ -1,5 +1,5 @@
 //Book.hpp
-//Here I made display() and displayFilter() pure virtual functions, see at the bottom. 
+
 #ifndef BOOK_HPP_
 #define BOOK_HPP_
 
